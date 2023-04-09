@@ -1,2 +1,3 @@
 code that ran on day 1.
 Adding some more code to address reviewer 1's concern.
+Let's use the plotting function.
